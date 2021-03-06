@@ -1,0 +1,30 @@
+! version = 2.0
+
++ hello
+- hello, what is your name?
+
++ hi
+- Asthma attacks ,Chronic Obstructive Pulmonary Disease –COPD
+
++ my name is *
+- nice to meet you <star> what may i help yo with today ?
+- nice meeting you <star> what may i help yo with today ?
+
+/*+ about diseases related to air pollution
+- Asthma attacks ,Chronic Obstructive Pulmonary Disease –COPD , Reduced lung function , Pulmonary cancer – caused by a series of carcinogen chemicals that enter the body through inhalation ,Mesothelioma – a particular type of lung cancer, usually associated with exposure to asbestos (it usually occurs 20-30 years after the initial exposure), Pneumonia*/
+
++ air pollution
+- Asthma attacks ,Chronic Obstructive Pulmonary Disease –COPD
+
+
++ thank you
+- you are welcome
+- welcome
+- no problem
+- no worries
+
++ *
+- Sorry did not get what you said
+- I am afraid that i can not understand you
+- I did not get it
+- Sorry can you please elaborate that for me
